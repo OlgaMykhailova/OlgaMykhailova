@@ -18,7 +18,7 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of exper
 ![Static Badge](https://img.shields.io/badge/Tailwind%20-%20%2306B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Redux-violet?logo=Redux&logoColor=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/Zustand-violet?logoColor=%2361DAFB)
-
+<br/>
 ![Static Badge](https://img.shields.io/badge/React%20Native-black?logo=react&logoColor=%2361DAFB&color=black)
 ![Static Badge](https://img.shields.io/badge/Expo-red?logo=expo&logoColor=%23000020)
 ![Static Badge](https://img.shields.io/badge/Node.js%20-%20%23339933?style=flat&logo=nodedotjs&logoColor=white)
