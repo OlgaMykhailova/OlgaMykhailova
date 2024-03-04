@@ -22,7 +22,9 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of exper
 ![Static Badge](https://img.shields.io/badge/MongoDB%20-%20%2347A248?style=flat&logo=mongodb&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/TanStack%20Query-yellow)
-
+![Static Badge](https://img.shields.io/badge/Axios-yellow?logo=axios&logoColor=%235A29E4)
+![Static Badge](https://img.shields.io/badge/Zod-%233E67B1?logo=zod&logoColor=%235A29E4&labelColor=%233E67B1)
+![Static Badge](https://img.shields.io/badge/Yup-%233E67B1)
 
 
 ##
