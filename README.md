@@ -2,7 +2,11 @@
 
 I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of experience. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. I enjoy finding elegant solutions to difficult tasks. Open to new projects and interesting experiences.
 ## 
-### My Resume -> [CV👩‍💻](https://drive.google.com/file/d/1x87lB6vsXmRSXxlMpwxZkSL0Lv-L6Buu/view?usp=sharing)
+### My Resume :
+
+<a href="https://drive.google.com/file/d/1x87lB6vsXmRSXxlMpwxZkSL0Lv-L6Buu/view?usp=sharing" target="_blank">![Static Badge](https://img.shields.io/badge/View%20CV-%2361DAFB?logo=read.cv)
+</a>
+
 ##
 ### My primary technology stack includes :
 ![Static Badge](https://img.shields.io/badge/HTML%20-%20%23E34F26?style=flat&logoColor=white)
