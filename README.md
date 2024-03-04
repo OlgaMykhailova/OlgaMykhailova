@@ -21,6 +21,9 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of exper
 ![Static Badge](https://img.shields.io/badge/Node.js%20-%20%23339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB%20-%20%2347A248?style=flat&logo=mongodb&logoColor=white)
 
+![Static Badge](https://img.shields.io/badge/TanStack%20Query-yellow)
+
+
 
 ##
 ### My contacts :
