@@ -13,13 +13,13 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of exper
 ![Static Badge](https://img.shields.io/badge/TypeScrypt%20-%20%232AA4F4?style=flat&logo=typescript&logoColor=black)
 
 ### Hands-on experience with :
-![Static Badge](https://img.shields.io/badge/SASS-%23FFFC00?logo=sass&logoColor=%23CC6699)
+![Static Badge](https://img.shields.io/badge/SASS-%2343B02A?logo=sass&logoColor=%23CC6699)
 ![Static Badge](https://img.shields.io/badge/Styled%20Components%20-%20%23DB7093?style=flat&logo=styledcomponents&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwind%20-%20%2306B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Redux-violet?logo=Redux&logoColor=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/Zustand-violet?logoColor=%2361DAFB)
 <br/>
-![Static Badge](https://img.shields.io/badge/SASS-%2343B02A?logo=sass&logoColor=%23CC6699)
+![Static Badge](https://img.shields.io/badge/React%20Native-black?logo=react&logoColor=%2361DAFB&color=black)
 ![Static Badge](https://img.shields.io/badge/Expo-red?logo=expo&logoColor=%23000020)
 ![Static Badge](https://img.shields.io/badge/Node.js%20-%20%23339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB%20-%20%2347A248?style=flat&logo=mongodb&logoColor=white)
@@ -35,7 +35,9 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of exper
 ### My contacts :
 
 <a href="https://www.linkedin.com/in/olgamykhailova/" target="_blank">![Static Badge](https://img.shields.io/badge/LinkedIn-%20%230A66C2?style=flat&logo=linkedin&logoColor=white)</a>
+<br/>
 <a href="https://t.me/Olya_Kaktusya" target="_blank">![Static Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram)</a>
+<br/>
 <a href="mailto:olyakaktusya@gmail.com">![Static Badge](https://img.shields.io/badge/Email%20-%20%23EA4335?style=flat&logo=gmail&logoColor=white)</a>
 
 
