@@ -30,6 +30,12 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of exper
 ![Static Badge](https://img.shields.io/badge/Zod-%233E67B1?logo=zod&logoColor=%235A29E4&labelColor=%233E67B1)
 ![Static Badge](https://img.shields.io/badge/Yup-%233E67B1)
 
+### My projects :
+
+<a href="https://kuharskyivulyk.com.ua/uk" target="_blank">![Static Badge](https://img.shields.io/badge/Kuharskyi%20Vulyk-%2343B02A)
+</a>
+<br/>
+A bilingual app (English and Ukrainian) for the volunteer organization "Kuharskyi Vulyk," which provides dry breakfasts, lunches, and snacks for the military. This online shop streamlines military orders from the product catalog and includes an admin panel for managing the site (adding/removing products, tracking orders, and modifying donation payment details). Team Project. Role - Developer (Catalog, Cart, Dream Team pages, Authentication, and the Admin panel). Main technologies: React/NextJS, i18n, Redux, Next Auth, Formik, Yup, REST API, NodeJS, Express, MongoDB, Mongoose.
 
 ##
 ### My contacts :
