@@ -13,12 +13,12 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of exper
 ![Static Badge](https://img.shields.io/badge/TypeScrypt%20-%20%232AA4F4?style=flat&logo=typescript&logoColor=black)
 
 ### Hands-on experience with :
-![Static Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Static Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Styled%20Components%20-%20%23DB7093?style=flat&logo=styledcomponents&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwind%20-%20%2306B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Node.js%20-%20%23339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB%20-%20%2347A248?style=flat&logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React%20Native-black?logo=react&logoColor=%2361DAFB&color=black)
+
 
 ##
 ### My contacts :
