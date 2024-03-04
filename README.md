@@ -26,7 +26,7 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of exper
 ### My contacts :
 
 <a href="https://www.linkedin.com/in/olgamykhailova/" target="_blank">![Static Badge](https://img.shields.io/badge/LinkedIn-%20%230A66C2?style=flat&logo=linkedin&logoColor=white)</a>
-
+<a href="https://t.me/Olya_Kaktusya" target="_blank">![Static Badge](https://img.shields.io/badge/Telegram-blue?logo=telegram)</a>
 <a href="mailto:olyakaktusya@gmail.com">![Static Badge](https://img.shields.io/badge/Email%20-%20%23EA4335?style=flat&logo=gmail&logoColor=white)</a>
 
 
