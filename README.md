@@ -2,13 +2,13 @@
 
 I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of experience. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. I enjoy finding elegant solutions to difficult tasks. Open to new projects and interesting experiences.
 ## 
-### My Resume :
+### My Resume:
 
 <a href="https://drive.google.com/file/d/1x87lB6vsXmRSXxlMpwxZkSL0Lv-L6Buu/view?usp=sharing" target="_blank">![Static Badge](https://img.shields.io/badge/View%20CV-%2361DAFB?style=for-the-badge&logo=read.cv)
 </a>
 
 ##
-### My primary technology stack includes :
+### My primary technology stack includes:
 ![Static Badge](https://img.shields.io/badge/HTML%20-%20%23E34F26?style=flat&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS%20-%20%231572B6?style=flat&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/React%20-%20black?style=flat&logo=react)
@@ -16,7 +16,7 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of exper
 ![Static Badge](https://img.shields.io/badge/JavaScrypt%20-%20%23FFD600?style=flat&logo=javascript&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/TypeScrypt%20-%20%232AA4F4?style=flat&logo=typescript&logoColor=black)
 
-### Hands-on experience with :
+### Hands-on experience with:
 ![Static Badge](https://img.shields.io/badge/SASS-%2343B02A?logo=sass&logoColor=%23CC6699)
 ![Static Badge](https://img.shields.io/badge/Styled%20Components%20-%20%23DB7093?style=flat&logo=styledcomponents&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwind%20-%20%2306B6D4?style=flat&logo=tailwindcss&logoColor=white)
@@ -34,7 +34,7 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of exper
 ![Static Badge](https://img.shields.io/badge/Zod-%233E67B1?logo=zod&logoColor=%235A29E4&labelColor=%233E67B1)
 ![Static Badge](https://img.shields.io/badge/Yup-%233E67B1)
 
-### My projects :
+### My projects:
 <a href="https://kuharskyivulyk.com.ua/uk" target="_blank">![Static Badge](https://img.shields.io/badge/Kuharskyi%20Vulyk-%23569A31?style=for-the-badge)
 </a>
 <br/>
