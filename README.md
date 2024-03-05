@@ -41,7 +41,7 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of exper
 A bilingual app (English and Ukrainian) for the volunteer organization "Kuharskyi Vulyk," which provides dry breakfasts, lunches, and snacks for the military. This online shop streamlines military orders from the product catalog and includes an admin panel for managing the site (adding/removing products, tracking orders, and modifying donation payment details). Team Project. Role - Developer (Catalog, Cart, Dream Team pages, Authentication, and the Admin panel). Main technologies: React/NextJS, i18n, Redux, Next Auth, Formik, Yup, REST API, NodeJS, Express, MongoDB, Mongoose.
 
 ##
-### My contacts :
+### My contacts:
 
 <a href="https://www.linkedin.com/in/olgamykhailova/" target="_blank">![Static Badge](https://img.shields.io/badge/LinkedIn-%20%230A66C2?style=flat&logo=linkedin&logoColor=white)</a>
 <br/>
