@@ -35,6 +35,11 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of exper
 ![Static Badge](https://img.shields.io/badge/Yup-%233E67B1)
 
 ### My projects:
+<a href="https://greyplaza.com.ua/" target="_blank">![Static Badge](https://img.shields.io/badge/Kuharskyi%20Vulyk-%23569A31?style=for-the-badge)
+</a>
+<br/>
+Application for business center GREY PLAZA. Individual Project. Role - Developer. Main technologies: Typescript, React/NextJS, Tailwind, Next-intl, Axios, Formik, Yup, Framer-motion.
+
 <a href="https://kuharskyivulyk.com.ua/uk" target="_blank">![Static Badge](https://img.shields.io/badge/Kuharskyi%20Vulyk-%23569A31?style=for-the-badge)
 </a>
 <br/>
