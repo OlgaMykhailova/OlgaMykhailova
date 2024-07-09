@@ -4,7 +4,7 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1 year of exper
 ## 
 ### My Resume:
 
-<a href="https://drive.google.com/file/d/1x87lB6vsXmRSXxlMpwxZkSL0Lv-L6Buu/view?usp=sharing" target="_blank">![Static Badge](https://img.shields.io/badge/View%20CV-%2361DAFB?style=for-the-badge&logo=read.cv)
+<a href="https://drive.google.com/file/d/1zt83AfZEbRRdhM9_-00jqm4TU2oDDUUE/view?usp=sharing" target="_blank">![Static Badge](https://img.shields.io/badge/View%20CV-%2361DAFB?style=for-the-badge&logo=read.cv)
 </a>
 
 ##
