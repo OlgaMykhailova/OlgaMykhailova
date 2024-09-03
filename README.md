@@ -44,7 +44,7 @@ Multi-page application for business center GREY PLAZA. Individual Project. Role 
 <a href="https://www.ilovemyteam.online" target="_blank">![Static Badge](https://img.shields.io/badge/I%20love%20my%20team-%23569A31?style=for-the-badge)
 </a>
 <br/>
-A multilingual app (English, Ukrainian and Polish) for the IT company "i love my team", which provides website development services. Team Project (Home page, Admin panel, animations). Role - Developer. Main technologies: Typescript, React/NextJS, TailwindCSS, Next-intl, Axios, Formik, Yup, Framer-motion, sanity.io. Responsive layout.
+A multilingual app (English, Ukrainian and Polish) for the IT company "i love my team", which provides website development services. Team Project. Role - Developer (Home page, Admin panel, animations). Main technologies: Typescript, React/NextJS, TailwindCSS, Next-intl, Axios, Formik, Yup, Framer-motion, sanity.io. Responsive layout.
 
 <a href="https://kuharskyivulyk.com.ua/uk" target="_blank">![Static Badge](https://img.shields.io/badge/Kuharskyi%20Vulyk-%23569A31?style=for-the-badge)
 </a>
