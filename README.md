@@ -40,7 +40,7 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1.5 year of exp
 <br/>
 Multi-page application for business center GREY PLAZA. Individual Project. Role - Developer. Main technologies: Typescript, React/NextJS, Tailwind, Next-intl, Axios, Formik, Yup, Framer-motion. Responsive layout.
 
-<a href="https://www.ilovemyteam.online" target="_blank">![Static Badge](https://img.shields.io/badge/Kuharskyi%20Vulyk-%23569A31?style=for-the-badge)
+<a href="https://www.ilovemyteam.online" target="_blank">![Static Badge](https://img.shields.io/badge/I%20love%20my%20team-%23569A31?style=for-the-badge)
 </a>
 <br/>
 A multilingual app (English, Ukrainian and Polish) for the IT company "i love my team", which provides website development services. Team Project (Home page, Admin panel, animations). Role - Developer. Main technologies: Typescript, React/NextJS, TailwindCSS, Next-intl, Axios, Formik, Yup, Framer-motion, sanity.io. Responsive layout.
