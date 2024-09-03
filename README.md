@@ -27,9 +27,10 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 1.5 year of exp
 ![Static Badge](https://img.shields.io/badge/Expo-red?logo=expo&logoColor=%23000020)
 ![Static Badge](https://img.shields.io/badge/Node.js%20-%20%23339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MongoDB%20-%20%2347A248?style=flat&logo=mongodb&logoColor=white)
+![Static Badge](https://img.shields.io/badge/sanity.io-yellow?logo=axios&logoColor=%235A29E4)
 <br/>
 ![Static Badge](https://img.shields.io/badge/i18next-%23E4405F?logo=i18next&logoColor=%2326A69A)
-![Static Badge](https://img.shields.io/badge/TanStack%20Query-yellow)
+![Static Badge](https://img.shields.io/badge/TanStack%20Query-logoColor=%23CC6699)
 ![Static Badge](https://img.shields.io/badge/Axios-yellow?logo=axios&logoColor=%235A29E4)
 ![Static Badge](https://img.shields.io/badge/Zod-%233E67B1?logo=zod&logoColor=%235A29E4&labelColor=%233E67B1)
 ![Static Badge](https://img.shields.io/badge/Yup-%233E67B1)
