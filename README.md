@@ -46,7 +46,7 @@ Multi-page application for business center GREY PLAZA. Individual Project. Role 
 <br/>
 A multilingual app (English, Ukrainian and Polish) for the IT company "i love my team", which provides website development services. Team Project. Role - Developer (Home page, Admin panel, animations). Main technologies: Typescript, React/NextJS, TailwindCSS, Next-intl, Axios, Formik, Yup, Framer-motion, sanity.io. Responsive layout.
 
-<a href="https://kuharskyivulyk.com.ua/uk" target="_blank">![Static Badge](https://img.shields.io/badge/Kuharskyi%20Vulyk-%2361DAFB?style=for-the-badge)
+<a href="https://vulyk-self.vercel.app/uk" target="_blank">![Static Badge](https://img.shields.io/badge/Kuharskyi%20Vulyk-%2361DAFB?style=for-the-badge)
 </a>
 <br/>
 A bilingual app (English and Ukrainian) for the volunteer organization "Kuharskyi Vulyk," which provides dry breakfasts, lunches, and snacks for the military. This online shop streamlines military orders from the product catalog and includes an admin panel for managing the site (adding/removing products, tracking orders, and modifying donation payment details). Team Project. Role - Developer (Catalog, Cart, Dream Team pages, Authentication, and the Admin panel). Main technologies: React/NextJS, i18n, Redux, Next Auth, Formik, Yup, REST API, NodeJS, Express, MongoDB, Mongoose.
