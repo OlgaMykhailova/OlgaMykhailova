@@ -1,6 +1,6 @@
 ### Hi there, I'm Olga 👋
 
-I'm an enthusiastic and detail-oriented Front-end Developer with 1.5 year of experience. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. I enjoy finding elegant solutions to difficult tasks. Open to new projects and interesting experiences. Let's create something incredible together!
+I'm an enthusiastic and detail-oriented Front-end Developer with 2 year of experience. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. I enjoy finding elegant solutions to difficult tasks. Open to new projects and interesting experiences. Let's create something incredible together!
 ## 
 ### My Resume:
 
