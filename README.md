@@ -36,7 +36,7 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 2 year of exper
 ![Static Badge](https://img.shields.io/badge/Yup-%233E67B1)
 
 ### My projects:
-<a href="https://kondordevice.com/" target="_blank">![Static Badge](https://img.shields.io/badge/Kondor%20device-%235A29E4?style=for-the-badge)
+<a href="https://kondordevice.com/" target="_blank">![Static Badge](https://img.shields.io/badge/Kondor%20device-%23FFD600?style=for-the-badge)
 </a>
 <br/>
 This is the online shop for Kondor, Ukrainian brand that creates mechanical keyboards and other gaming devices for gamers and professionals. Team Project. Role - Developer. Main technologies: Typescript, React/NextJS, Zustand, Tailwind, Next-intl, Axios, Formik, Yup. The website has the wayforpay payment service connected, integration with the Nova Post and datoCMS API. Responsive layout.
