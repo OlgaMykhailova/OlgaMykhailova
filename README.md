@@ -36,6 +36,11 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 2 year of exper
 ![Static Badge](https://img.shields.io/badge/Yup-%233E67B1)
 
 ### My projects:
+<a href="https://ukrpole.com.ua/" target="_blank">![Static Badge](https://img.shields.io/badge/Ukrpole-%23CC6699?style=for-the-badge)
+</a>
+<br/>
+This is the multi-page website for Ukrpole, an agricultural company specializing in growing and preserving vegetables. Indidvidual Project. Role - Developer. Main technologies: Typescript, React/NextJS, Tailwind, Next-intl, Axios, Formik, Yup, Responsive layout.
+
 <a href="https://liriksolar.com.ua/" target="_blank">![Static Badge](https://img.shields.io/badge/Lirik%20Solar-%2361DAFB?style=for-the-badge)
 </a>
 <br/>
