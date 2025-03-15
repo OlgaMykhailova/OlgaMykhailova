@@ -36,6 +36,11 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 2 year of exper
 ![Static Badge](https://img.shields.io/badge/Yup-%233E67B1)
 
 ### My projects:
+<a href="https://www.finliga.com.ua/" target="_blank">![Static Badge](https://img.shields.io/badge/FINANCE%20LEAGUE-%233E67B1?style=for-the-badge)
+</a>
+<br/>
+A bilingual landing page for the FINANCE LEAGUE that provides accounting, legal, and financial services. Individual Project. Role - Developer. Main technologies: Typescript, React/NextJS, Tailwind, Next-intl, Axios, Formik, Yup, framer-motion. A calculator has been developed to estimate the approximate cost of services, message submission from the form to telegram, and animations created using framer-motion.
+
 <a href="https://kondordevice.com/" target="_blank">![Static Badge](https://img.shields.io/badge/Kondor%20device-%23FFD600?style=for-the-badge)
 </a>
 <br/>
