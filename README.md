@@ -41,6 +41,11 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 2 year of exper
 <br/>
 Online bookstore for the publishing house Glimmer. Individual Project. Role - Developer. Main technologies: Typescript, React/NextJS, Tailwind, Zustand, Axios, Formik, Yup, framer-motion. An administrative panel has been created and integrated on Sanity. The website has the monopay payment service connected, integration with the Nova Post and datoCMS API, message submission from the form to telegram, sending order confirmation emails using Resend, and animations created using framer-motion.
 
+<a href="https://bravo-food.com/" target="_blank">![Static Badge](https://img.shields.io/badge/BRAVO%20FOOD-%23569A31?style=for-the-badge)
+</a>
+<br/>
+A website for a ready-made food delivery service BRAVO FOOD. Individual Project. Role - Developer. Main technologies: Typescript, React/NextJS, Tailwind, Axios, Formik, Yup, Framer-motion. Message submission from the form to telegram, animations created using framer-motion. Responsive layout.
+
 <a href="https://www.finliga.com.ua/" target="_blank">![Static Badge](https://img.shields.io/badge/FINANCE%20LEAGUE-%233E67B1?style=for-the-badge)
 </a>
 <br/>
