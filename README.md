@@ -36,6 +36,11 @@ I'm an enthusiastic and detail-oriented Front-end Developer with 2 year of exper
 ![Static Badge](https://img.shields.io/badge/Yup-%233E67B1)
 
 ### My projects:
+<a href="https://www.glimmer.com.ua/" target="_blank">![Static Badge](https://img.shields.io/badge/GLIMMER-%2361DAFB?style=for-the-badge)
+</a>
+<br/>
+Online bookstore for the publishing house Glimmer. Individual Project. Role - Developer. Main technologies: Typescript, React/NextJS, Tailwind, Zustand, Axios, Formik, Yup, framer-motion. An administrative panel has been created and integrated on Sanity. The website has the monopay payment service connected, integration with the Nova Post and datoCMS API, message submission from the form to telegram, sending order confirmation emails using Resend, and animations created using framer-motion.
+
 <a href="https://www.finliga.com.ua/" target="_blank">![Static Badge](https://img.shields.io/badge/FINANCE%20LEAGUE-%233E67B1?style=for-the-badge)
 </a>
 <br/>
